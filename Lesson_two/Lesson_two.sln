@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.645
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_two", "Lesson_two\Lesson_two.csproj", "{75B5FB38-36B6-4A85-B539-C58E0F5047DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "getSumOfNumbers", "getSumOfNumbers\getSumOfNumbers.csproj", "{6472C5CD-D6FC-4FB3-ABEE-E4FCAE812647}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75B5FB38-36B6-4A85-B539-C58E0F5047DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B5FB38-36B6-4A85-B539-C58E0F5047DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B5FB38-36B6-4A85-B539-C58E0F5047DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6472C5CD-D6FC-4FB3-ABEE-E4FCAE812647}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6472C5CD-D6FC-4FB3-ABEE-E4FCAE812647}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6472C5CD-D6FC-4FB3-ABEE-E4FCAE812647}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6472C5CD-D6FC-4FB3-ABEE-E4FCAE812647}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
