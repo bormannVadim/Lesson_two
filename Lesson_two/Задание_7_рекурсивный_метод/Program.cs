@@ -7,6 +7,7 @@ namespace Задание_7_рекурсивный_метод
         static void Main(string[] args)
         {
             //Савенко Вадим
+            //Внёс изменения, чтобы сохранить branch
             Console.WriteLine("Введите a");
             int a = Convert.ToInt32(Console.ReadLine());
 
