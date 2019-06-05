@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task5", "task5\task5.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Считаем_числа_от_1_до_1_000_000_000", "Считаем_числа_от_1_до_1_000_000_000\Считаем_числа_от_1_до_1_000_000_000.csproj", "{57742AD2-FE73-46C0-B5FD-E5140E41C13E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Задание_7_рекурсивный_метод", "Задание_7_рекурсивный_метод\Задание_7_рекурсивный_метод.csproj", "{2C4805CD-C4A4-4468-AC30-63F6CD75C7C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C4805CD-C4A4-4468-AC30-63F6CD75C7C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C4805CD-C4A4-4468-AC30-63F6CD75C7C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C4805CD-C4A4-4468-AC30-63F6CD75C7C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C4805CD-C4A4-4468-AC30-63F6CD75C7C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
