@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginPassword", "LoginPassw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task5", "task5\task5.csproj", "{D15E86FE-9035-4FDA-8388-5BAE6287C510}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Считаем_числа_от_1_до_1_000_000_000", "Считаем_числа_от_1_до_1_000_000_000\Считаем_числа_от_1_до_1_000_000_000.csproj", "{57742AD2-FE73-46C0-B5FD-E5140E41C13E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{D15E86FE-9035-4FDA-8388-5BAE6287C510}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D15E86FE-9035-4FDA-8388-5BAE6287C510}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D15E86FE-9035-4FDA-8388-5BAE6287C510}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57742AD2-FE73-46C0-B5FD-E5140E41C13E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
